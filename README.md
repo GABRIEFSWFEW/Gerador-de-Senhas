@@ -1,2 +1,2 @@
 # Gerador-de-senhas
-Basicamente ele gera senhas aleatorias quando clicado ao botao "gerar senha"
+Basically it generates random passwords when clicked on the "generate password" button
